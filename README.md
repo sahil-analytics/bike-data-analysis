@@ -1,27 +1,32 @@
-# Bike Shop Analysis Project
+# 🚴‍♂️Bike Shop Analysis Project🚴‍♂️
 
-The project compared a bike shop's level of sales and profitability for two years using SQL and Power BI. The objective was to determine trends, establish insights, and suggest price and profitability increments.
+**Hi, I’m Sahil 👋 I’m a data enthusiast specializing in SQL, Power BI, and Analytics. This repository showcases my Bike Shop Analysis project, where I analyzed sales and profitability trends over two years to generate actionable insights. The project compared a bike shop's level of sales and profitability for two years using SQL and Power BI. The objective was to determine trends, establish insights, and suggest price and profitability increments.**
 
-## Project Overview
+## 📊Project Overview
 
-**Information from the `bike_share_yr_0` and `bike_share_yr_1` datasets for year 0 and year 1, respectively, and a `cost_table` of costs and prices, were analyzed. Data cleaning and data merging was performed using SQL, and Power BI for visualization of such key metrics as well as to structure an interactive dashboard.**
+Data from the following sources were analyzed:
+	•	bike_share_yr_0 – Year 0 bike sharing data
+	•	bike_share_yr_1 – Year 1 bike sharing data
+	•	cost_table – Costs and prices for each bike
+
+**Process: Data cleaning and merging were performed using SQL, and visualizations were created in Power BI to build an interactive dashboard highlighting key metrics.**
 
 ---
 
-## Dashboard Preview
+## 🖼Dashboard Preview
 
 Here is a screenshot of the dashboard developed for the Bike Store project:
 
 ![Dashboard Preview](https://github.com/sahil-analytics/bike-data-analysis/blob/main/Dashboard.png)
 
-## Tools and Technologies
+## 🛠Tools and Technologies
 
 - **SQL**: For data cleaning, data transformation, and data analysis.
 - **Power BI**: For creating data visualizations and dashboards.
 
 ---
 
-## Project Steps
+## 🚀Project Workflow
 
 1. **Data Preparation in SQL:**
    - Joined data from `bike_share_yr_0` and `bike_share_yr_1` using a `UNION ALL` query.
@@ -59,7 +64,7 @@ Here is a screenshot of the dashboard developed for the Bike Store project:
 
 ---
 
-## Key Findings
+## 📈Key Findings
 
 1. **When Are We Making Money?**
 - Increased revenue is earned between midday and early evening (10:00 AM to 3:00 PM).
@@ -79,7 +84,7 @@ Here is a screenshot of the dashboard developed for the Bike Store project:
 
 ---
 
-## Recommendations
+## 💡Recommendations
 
 1. **Conservative Price Increase:**
    - A 10-15% price increase is recommended to test the market without alienating too many customers.
@@ -98,7 +103,7 @@ Here is a screenshot of the dashboard developed for the Bike Store project:
 
 ---
 
-## Repository Files
+## 🗂 Repository Files
 
 1. **SQL Queries:**
    - All SQL scripts utilized to prep data and analysis.
@@ -111,6 +116,6 @@ Here is a screenshot of the dashboard developed for the Bike Store project:
 
 ---
 
-## Conclusion
+## ✅Conclusion
 
 This project provides actionable insights into the performance of the bike shop and offers suggestions on how to enhance revenue and profitability. Stakeholders can easily visualize trends in data and make informed decisions using the interactive dashboard.
