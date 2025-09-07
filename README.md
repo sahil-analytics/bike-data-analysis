@@ -84,25 +84,6 @@ Here is a screenshot of the dashboard developed for the Bike Store project:
 
 ---
 
-## 💡Recommendations
-
-1. **Conservative Price Increase:**
-   - A 10-15% price increase is recommended to test the market without alienating too many customers.
-   - For example:
-     - A 10% increase would price the item at $5.49 from $4.99.
-- The cost would be around $5.74 with a 15% rise.
-
-2. **Segmented Pricing Strategy:**
-   - Implement various pricing policies for registered riders and occasional riders according to their price elasticity.
-
-3. **Monitor and Adjust:**
-   - Keep an eye on customer reactions and sales history cautiously upon implementing change in price to make required adjustments in turn.
-
-4. **Focus on Peak Hours:**
-- Maximize resource and personnel availability between peak revenue hours (10:00 AM to 3:00 PM).
-
----
-
 ## 🗂 Repository Files
 
 1. **SQL Queries:**
